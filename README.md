@@ -52,7 +52,7 @@ The site includes:
 
 ## Author
 
-**Madeline Ratoza, PT, DPT, PhD
+Madeline Ratoza, PT, DPT, PhD
 
 Health equity researcher and educator focused on rehabilitation workforce distribution, access to care, and spatial approaches to population health.
 
